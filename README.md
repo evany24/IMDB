@@ -1,2 +1,4 @@
 # IMDB-Main
-Project 3 part 1
+Part 1
+Part 2
+Part 3
